@@ -1,0 +1,10 @@
+{
+    "title": "Structured Output with Pydantic and TypedDict",
+    "description": "This code demonstrates how to use Pydantic and TypedDict for structured output in LangChain with the Gemini-3-Flash-Preview model.",
+    "type": "object",
+    "properties": {
+        "name": "string",
+        "age": "integer"
+    },
+    "required": ["name"]
+}

@@ -30,3 +30,6 @@ scikit-learn
 
 # Web Framework for Deployment
 streamlit
+
+# Data Validation and Structured Output
+pydantic[email]
