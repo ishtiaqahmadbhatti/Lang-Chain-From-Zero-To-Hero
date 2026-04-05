@@ -27,3 +27,6 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+# Web Framework for Deployment
+streamlit
