@@ -1,6 +1,7 @@
 # LangChain Core
 langchain
 langchain-core
+langchain-community
 
 # OpenAI Integration
 langchain-openai
@@ -36,3 +37,12 @@ pydantic[email]
 
 # Graph Visualization
 grandalf
+
+# PDF Handling
+pypdf
+
+# Web Scraping
+beautifulsoup4
+
+# Selenium for dynamic content loading
+selenium

@@ -52,7 +52,7 @@ Document loaders are utilities that **load data from multiple sources and conver
 
 Each Document object typically contains:
 
-- **Page Content ($\text{page_content}$):** The actual text or data extracted.
+- **Page Content ($\text{page\_content}$):** The actual text or data extracted.
 - **Metadata ($\text{metadata}$):** Information about the source, creation date, author, page number, etc.
 
 ### Why Standardization Matters
