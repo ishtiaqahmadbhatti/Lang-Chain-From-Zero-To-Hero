@@ -3,6 +3,7 @@ langchain
 langchain-core
 langchain-community
 langchain-text-splitters
+langchain-classic
 
 # OpenAI Integration
 langchain-openai
@@ -53,3 +54,9 @@ langchain-chroma
 
 # Sentence Transformers for embedding generation
 sentence-transformers
+
+# Wikipedia API
+wikipedia
+
+# FAISS for efficient similarity search
+faiss-cpu
