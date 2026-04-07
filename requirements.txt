@@ -33,3 +33,6 @@ streamlit
 
 # Data Validation and Structured Output
 pydantic[email]
+
+# Graph Visualization
+grandalf
