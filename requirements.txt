@@ -1,9 +1,15 @@
-# LangChain Core
+# This file lists the dependencies for the LangChain project. It includes core components, integrations with various LLM providers, and utilities for document loading, embedding generation, and more.
 langchain
+# Core components and utilities
 langchain-core
+# Community-contributed modules and integrations
 langchain-community
+# Document Loaders and Text Splitters
 langchain-text-splitters
+# LLMs and Embeddings
 langchain-classic
+# Experimental features and utilities
+langchain-experimental
 
 # OpenAI Integration
 langchain-openai
@@ -60,3 +66,9 @@ wikipedia
 
 # FAISS for efficient similarity search
 faiss-cpu
+
+# DuckDuckGo Search API
+ddgs
+
+# Vectorless Page Indexing
+pageindex
